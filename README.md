@@ -9,7 +9,7 @@
 ## Description
 This is a text editor application that runs in the browser. This app allow the user to create notes or code snippets with or without an internet connection so that the user can reliably retrieve them for later use.
 
-To view the live site, click [here]().
+To view the live site, click [here](https://arcane-brook-73913.herokuapp.com/).
 
 ## Installation
 Run `npm i` to install dependencies. To start up the backend and serve the client, run `npm run start` from the root directory.
